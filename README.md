@@ -5,7 +5,6 @@
 <h3>AI/ML Engineer · RAG &amp; GraphRAG Systems</h3>
 
 <a href="https://linkedin.com/in/hemanthpalagani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/hemanth._.palagani"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <br/>
 
